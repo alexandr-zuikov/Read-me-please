@@ -28,14 +28,13 @@
 <p>-Тестирование API</p>
 <p>-Приемочное тестирование</p>
 
-> <a href="https://drive.google.com/file/d/1ckOMNXTAV29eul8SkIiUfzAlJgB7Ramy/view?usp=drive_link">Ссылка на тест-план</a>
+> <a href="https://drive.google.com/file/d/1ckOMNXTAV29eul8SkIiUfzAlJgB7Ramy/view?usp=drive_link">Ссылка на тест-план и итого тестирования</a>
  
  <p>Выводы (итоги):<p>
 <ol>
-  <li>По итогам тестирования на момент тестирования новый функционал системы “Личные события” не готов к выпуску. Требуется исправление блокирующего бага</li>
-</ol>
+По итогам тестирования на момент тестирования новый функционал системы “Личные события” не готов к выпуску. Требуется исправление блокирующего бага</ol>
 
 
 ## Контактная информация
-- ТГ: t.me/sasha_ekberg
-- LinkedIn: www.linkedin.com/in/aleksandr-zuikov
+- [Telegram](https://t.me/sasha_ekberg)
+- [LinkedIn](www.linkedin.com/in/aleksandr-zuikov)
