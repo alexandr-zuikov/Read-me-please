@@ -28,7 +28,7 @@
 <p>-Тестирование API</p>
 <p>-Приемочное тестирование</p>
 
-> <a href="https://drive.google.com/file/d/1ckOMNXTAV29eul8SkIiUfzAlJgB7Ramy/view?usp=drive_link">Ссылка на тест-план и итого тестирования</a>
+> <a href="https://drive.google.com/file/d/1ckOMNXTAV29eul8SkIiUfzAlJgB7Ramy/view?usp=drive_link">Ссылка на тест-план и итоги тестирования</a>
  
  <p>Выводы (итоги):<p>
 <ol>
