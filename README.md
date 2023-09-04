@@ -37,4 +37,4 @@
 
 ## Контактная информация
 - [Telegram](https://t.me/sasha_ekberg)
-- [LinkedIn](www.linkedin.com/in/aleksandr-zuikov)
+- [LinkedIn](https://www.linkedin.com/in/aleksandr-zuikov)
