@@ -9,24 +9,24 @@
  <ol>- Понимание основных процессов тестирования;</ol>
  <ol>- Опыт работы с инструментами: DevTools, Jira, Qase.io, Postman, SOAP UI, Charles;</ol>
  <ol>- Опыт в тестировании API;</ol>
- <ol>- Опыт работы с SQL, в частности с PostgreSQL и mySQL.</ol>
+ <ol>- Опыт работы с SQL, в частности с
+<div>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;</ol>
 
 - :seedling: Легко нахожу общий язык с коллегами, умею слушать и слышать собеседника, быстро адаптируюсь к новому окружению и умею подстраиваться под ситуацию.
 Быстро обучаем: стремительно усваиваю новую информацию и затем активно использую её в работе. Хотел бы повышать свой уровень экспертизы в IT.
 Имею аналитический склад ума, люблю разбираться в сути задачи, искать первопричины явлений. Внимателен к деталям. Педантичен.
 Способен эффективно работать, как в команде, так и самостоятельно. С готовностью делюсь опытом и оказываю поддержку коллегам.
 
-- :mailbox: Мне можно написать: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/aleksandr-zuikov)) 
+- :mailbox: Мне можно написать:
+  [Telegram](https://t.me/sasha_ekberg)
+  [LinkedIn](https://www.linkedin.com/in/aleksandr-zuikov)
 
 <br>В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
 <br>
 
 ## Навыки и технологии
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg title="Jira"  alt="Jira" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" title="Сonfluence"  alt="Сonfluence" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   
 ``Jira``,``qase.io``,``SQL``,``DevTools``,``Postman``, ``Swagger``, ``Trello``,``SoapUI``, ``Charles``, ``Git``, ``Miro``, ``Trello``, ``ClickUp``
 
