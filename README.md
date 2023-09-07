@@ -2,8 +2,22 @@
 ### :man_technologist: Обо мне:
 
 Добрый день! Меня зовут Александр, я Junior Manual QA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32">.
+
+- :telescope: Я не боюсь фразы: "У нас нет ТЗ, но нужно ВСЁ протестировать!". Люблю backend-тестирование, хотя и frontend мне не чужд.
+- :zap: Уверен, что могу быть вам полезен, так как имею:
+<p>- Знание методологий тестирования, владение техникой тест-дизайна;</p>
+<p>- Понимание основных процессов тестирования;</p>
+<p>- Опыт работы с инструментами: DevTools, Jira, Qase.io, Postman, SOAP UI, Charles;</p>
+<p>- Опыт в тестировании API;</p>
+<p>- Опыт работы с SQL, в частности с PostgreSQL и mySQL.</p>
+
+- :seedling: Exploring Technical Content Writing.
+
+
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
  
-<br>Я не боюсь фразы: "У нас нет ТЗ, но нужно ВСЁ протестировать!". Люблю backend-тестирование, хотя и frontend мне не чужд.</br>
+<br></br>
 
 <br>Уверен, что могу быть вам полезен, так как имею:</br>
 <p>- Знание методологий тестирования, владение техникой тест-дизайна;</p>
