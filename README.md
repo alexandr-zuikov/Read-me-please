@@ -3,6 +3,17 @@
 
 Добрый день! Меня зовут Александр, я Junior Manual QA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32">
 
+<ol><div id="badges">
+  <a href="https://drive.google.com/file/d/1WGEX2FkXVxr01m1WLmulVa10T6V7ZE65/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Моё резюме-blue?style=for-the-badge&logo=Моё резюме&logoColor=white" alt="Моё резюме Badge"/>
+  </a>
+  <a href="https://tbilisi.headhunter.ge/resume/9d24f520ff0be280fb0039ed1f595a31337a51">
+    <img src="https://img.shields.io/badge/headhunter-red?style=for-the-badge&logo=headhunter&logoColor=white" alt="Headhunter Badge"/>
+  </a>
+</div> </ol>
+
+
+
 - :telescope: Я не боюсь фразы: "У нас нет ТЗ, но нужно ВСЁ протестировать!". Люблю backend-тестирование, хотя и frontend мне не чужд.
 - :zap: Уверен, что могу быть вам полезен, так как имею:
  <ol>- Знание методологий тестирования, владение техникой тест-дизайна;</ol>
