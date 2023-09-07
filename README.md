@@ -11,7 +11,7 @@
  <ol>- Опыт в тестировании API;</ol>
  <ol>- Опыт работы с SQL:</ol>
   
-  <ol><div> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+</ol><div> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;</div>  </ol>
 
 - :seedling: Легко нахожу общий язык с коллегами, умею слушать и слышать собеседника, быстро адаптируюсь к новому окружению и умею подстраиваться под ситуацию.
@@ -20,10 +20,7 @@
 Способен эффективно работать, как в команде, так и самостоятельно. С готовностью делюсь опытом и оказываю поддержку коллегам.
 
 - :mailbox: Мне можно написать:
-  [Telegram](https://t.me/sasha_ekberg)
-  [LinkedIn](https://www.linkedin.com/in/aleksandr-zuikov)
-
-  <ol><div id="badges">
+<div id="badges">
   <a href="https://www.linkedin.com/in/aleksandr-zuikov">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -31,21 +28,20 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
-</ol>
 
 <br>В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
 <br>
 
 ## Навыки и технологии
 <div> 
- <img src="https://img.shields.io/badge/Jira-blue" title="Jira" alt="Jira" width="40" height="15"/>&nbsp;
+ <img src="https://img.shields.io/badge/Jira-blue" title="Jira" alt="Jira" width="22" height="15"/>&nbsp;
   <img src="https://img.shields.io/badge/qase.io-purple" title="qase.io" alt="qase.io" width="40" height="15"/>&nbsp;
   <img src="https://img.shields.io/badge/DevTools-grey" title="DevTools" alt="DevTools" width="40" height="15"/>&nbsp;
   <img src="https://img.shields.io/badge/Postman-orange" title="Postman" alt="Postman" width="40" height="15"/>&nbsp;
  <img src="https://img.shields.io/badge/Swagger-green" title="Swagger" alt="Swagger" width="40" height="15"/>&nbsp;
  <img src="https://img.shields.io/badge/SoapUI-yellow" title="SoapUI" alt="SoapUI" width="40" height="15"/>&nbsp;
    <img src="https://img.shields.io/badge/Charles-white" title="Charles" alt="Charles" width="40" height="15"/>&nbsp;
- <img src="https://img.shields.io/badge/Git-black" title="Git" alt="Git" width="40" height="15"/>&nbsp;
+ <img src="https://img.shields.io/badge/Git-black" title="Git" alt="Git" width="20" height="15"/>&nbsp;
   <img src="https://img.shields.io/badge/Miro-yellow" title="Miro" alt="Miro" width="40" height="15"/>&nbsp;
  <img src="https://img.shields.io/badge/Trello-blue" title="Trello" alt="Trello" width="40" height="15"/>&nbsp;
  <img src="https://img.shields.io/badge/ClickUp-pink" title="ClickUp" alt="ClickUp" width="40" height="15"/>&nbsp;
