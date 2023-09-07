@@ -9,9 +9,7 @@
  <ol>- Понимание основных процессов тестирования;</ol>
  <ol>- Опыт работы с инструментами: DevTools, Jira, Qase.io, Postman, SOAP UI, Charles;</ol>
  <ol>- Опыт в тестировании API;</ol>
- <ol>- Опыт работы с SQL, в частности с
-<div>
- <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+ <ol>- Опыт работы с SQL:<div> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;</ol>
 
 - :seedling: Легко нахожу общий язык с коллегами, умею слушать и слышать собеседника, быстро адаптируюсь к новому окружению и умею подстраиваться под ситуацию.
@@ -27,6 +25,7 @@
 <br>
 
 ## Навыки и технологии
+<img src="https://img.shields.io/badge/Jira-blue)" title="Jira"  alt="Jira" width="40" height="40"/>&nbsp;
   
 ``Jira``,``qase.io``,``SQL``,``DevTools``,``Postman``, ``Swagger``, ``Trello``,``SoapUI``, ``Charles``, ``Git``, ``Miro``, ``Trello``, ``ClickUp``
 
