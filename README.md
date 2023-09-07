@@ -1,7 +1,7 @@
 # Портфолио: Инженер по тестированию / QA Engeenier
 ### :man_technologist: Обо мне:
 
-Добрый день! Меня зовут Александр, я Junior Manual QA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32">.
+Добрый день! Меня зовут Александр, я Junior Manual QA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32">
 
 - :telescope: Я не боюсь фразы: "У нас нет ТЗ, но нужно ВСЁ протестировать!". Люблю backend-тестирование, хотя и frontend мне не чужд.
 - :zap: Уверен, что могу быть вам полезен, так как имею:
@@ -9,8 +9,10 @@
  <ol>- Понимание основных процессов тестирования;</ol>
  <ol>- Опыт работы с инструментами: DevTools, Jira, Qase.io, Postman, SOAP UI, Charles;</ol>
  <ol>- Опыт в тестировании API;</ol>
- <ol>- Опыт работы с SQL:<div> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;</ol>
+ <ol>- Опыт работы с SQL:</ol>
+  
+ <div> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;</div> 
 
 - :seedling: Легко нахожу общий язык с коллегами, умею слушать и слышать собеседника, быстро адаптируюсь к новому окружению и умею подстраиваться под ситуацию.
 Быстро обучаем: стремительно усваиваю новую информацию и затем активно использую её в работе. Хотел бы повышать свой уровень экспертизы в IT.
@@ -25,9 +27,21 @@
 <br>
 
 ## Навыки и технологии
-<img src="https://img.shields.io/badge/Jira-blue)" title="Jira"  alt="Jira" width="40" height="40"/>&nbsp;
+<div> 
+ <img src="https://img.shields.io/badge/Jira-blue" title="Jira" alt="Jira" width="10" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/qase.io-purple" title="qase.io" alt="qase.io" width="10" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/DevTools-grey" title="DevTools" alt="DevTools" width="10" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Postman-orange" title="Postman" alt="Postman" width="10" height="40"/>&nbsp;
+ <img src="https://img.shields.io/badge/Swagger-green" title="Swagger" alt="Swagger" width="10" height="40"/>&nbsp;
+ <img src="https://img.shields.io/badge/SoapUI-yellow" title="SoapUI" alt="SoapUI" width="10" height="40"/>&nbsp;
+   <img src="https://img.shields.io/badge/Charles-white" title="Charles" alt="Charles" width="10" height="40"/>&nbsp;
+ <img src="https://img.shields.io/badge/Git-black" title="Git" alt="Git" width="10" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Miro-yellow" title="Miro" alt="Miro" width="10" height="40"/>&nbsp;
+ <img src="https://img.shields.io/badge/Trello-blue" title="Trello" alt="Trello" width="10" height="40"/>&nbsp;
+ <img src="https://img.shields.io/badge/ClickUp-pink" title="ClickUp" alt="ClickUp" width="10" height="40"/>&nbsp;
+</div> 
   
-``Jira``,``qase.io``,``SQL``,``DevTools``,``Postman``, ``Swagger``, ``Trello``,``SoapUI``, ``Charles``, ``Git``, ``Miro``, ``Trello``, ``ClickUp``
+``Jira``,``qase.io``,``SQL``,``DevTools``,``Postman``, ``Swagger``, ``SoapUI``, ``Charles``, ``Git``, ``Miro``, ``Trello``, ``ClickUp``
 
 ## Сертификаты
 <p>Пока один, но какой - я познал всю прелесть SQL, так что теперь он мне снится</p>
