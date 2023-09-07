@@ -23,22 +23,32 @@
   [Telegram](https://t.me/sasha_ekberg)
   [LinkedIn](https://www.linkedin.com/in/aleksandr-zuikov)
 
+  <ol><div id="badges">
+  <a href="https://www.linkedin.com/in/aleksandr-zuikov">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://t.me/sasha_ekberg">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</div>
+</ol>
+
 <br>В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
 <br>
 
 ## Навыки и технологии
 <div> 
- <img src="https://img.shields.io/badge/Jira-blue" title="Jira" alt="Jira" width="40" height="10"/>&nbsp;
-  <img src="https://img.shields.io/badge/qase.io-purple" title="qase.io" alt="qase.io" width="40" height="10"/>&nbsp;
-  <img src="https://img.shields.io/badge/DevTools-grey" title="DevTools" alt="DevTools" width="40" height="10"/>&nbsp;
-  <img src="https://img.shields.io/badge/Postman-orange" title="Postman" alt="Postman" width="40" height="10"/>&nbsp;
- <img src="https://img.shields.io/badge/Swagger-green" title="Swagger" alt="Swagger" width="40" height="10"/>&nbsp;
- <img src="https://img.shields.io/badge/SoapUI-yellow" title="SoapUI" alt="SoapUI" width="40" height="10"/>&nbsp;
-   <img src="https://img.shields.io/badge/Charles-white" title="Charles" alt="Charles" width="40" height="10"/>&nbsp;
- <img src="https://img.shields.io/badge/Git-black" title="Git" alt="Git" width="10" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/Miro-yellow" title="Miro" alt="Miro" width="40" height="10"/>&nbsp;
- <img src="https://img.shields.io/badge/Trello-blue" title="Trello" alt="Trello" width="40" height="10"/>&nbsp;
- <img src="https://img.shields.io/badge/ClickUp-pink" title="ClickUp" alt="ClickUp" width="40" height="10"/>&nbsp;
+ <img src="https://img.shields.io/badge/Jira-blue" title="Jira" alt="Jira" width="40" height="15"/>&nbsp;
+  <img src="https://img.shields.io/badge/qase.io-purple" title="qase.io" alt="qase.io" width="40" height="15"/>&nbsp;
+  <img src="https://img.shields.io/badge/DevTools-grey" title="DevTools" alt="DevTools" width="40" height="15"/>&nbsp;
+  <img src="https://img.shields.io/badge/Postman-orange" title="Postman" alt="Postman" width="40" height="15"/>&nbsp;
+ <img src="https://img.shields.io/badge/Swagger-green" title="Swagger" alt="Swagger" width="40" height="15"/>&nbsp;
+ <img src="https://img.shields.io/badge/SoapUI-yellow" title="SoapUI" alt="SoapUI" width="40" height="15"/>&nbsp;
+   <img src="https://img.shields.io/badge/Charles-white" title="Charles" alt="Charles" width="40" height="15"/>&nbsp;
+ <img src="https://img.shields.io/badge/Git-black" title="Git" alt="Git" width="40" height="15"/>&nbsp;
+  <img src="https://img.shields.io/badge/Miro-yellow" title="Miro" alt="Miro" width="40" height="15"/>&nbsp;
+ <img src="https://img.shields.io/badge/Trello-blue" title="Trello" alt="Trello" width="40" height="15"/>&nbsp;
+ <img src="https://img.shields.io/badge/ClickUp-pink" title="ClickUp" alt="ClickUp" width="40" height="15"/>&nbsp;
 </div> 
   
 ``Jira``,``qase.io``,``SQL``,``DevTools``,``Postman``, ``Swagger``, ``SoapUI``, ``Charles``, ``Git``, ``Miro``, ``Trello``, ``ClickUp``
