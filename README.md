@@ -1,9 +1,8 @@
-### :man_technologist: About Me :
 # Портфолио: Инженер по тестированию / QA Engeenier
+### :man_technologist: Обо мне:
 
-## Обо мне 
-
-Добрый день! Меня зовут Александр, я Junior Manual QA. 
+Добрый день! Меня зовут Александр, я Junior Manual QA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32">.
+ 
 <br>Я не боюсь фразы: "У нас нет ТЗ, но нужно ВСЁ протестировать!". Люблю backend-тестирование, хотя и frontend мне не чужд.</br>
 
 <br>Уверен, что могу быть вам полезен, так как имею:</br>
