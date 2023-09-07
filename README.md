@@ -11,8 +11,8 @@
  <ol>- Опыт в тестировании API;</ol>
  <ol>- Опыт работы с SQL:</ol>
   
-</ol><div> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;</div>  </ol>
+   </ol><div> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;</div>  </ol>
 
 - :seedling: Легко нахожу общий язык с коллегами, умею слушать и слышать собеседника, быстро адаптируюсь к новому окружению и умею подстраиваться под ситуацию.
 Быстро обучаем: стремительно усваиваю новую информацию и затем активно использую её в работе. Хотел бы повышать свой уровень экспертизы в IT.
@@ -34,20 +34,18 @@
 
 ## Навыки и технологии
 <div> 
- <img src="https://img.shields.io/badge/Jira-blue" title="Jira" alt="Jira" width="22" height="15"/>&nbsp;
-  <img src="https://img.shields.io/badge/qase.io-purple" title="qase.io" alt="qase.io" width="40" height="15"/>&nbsp;
-  <img src="https://img.shields.io/badge/DevTools-grey" title="DevTools" alt="DevTools" width="40" height="15"/>&nbsp;
-  <img src="https://img.shields.io/badge/Postman-orange" title="Postman" alt="Postman" width="40" height="15"/>&nbsp;
- <img src="https://img.shields.io/badge/Swagger-green" title="Swagger" alt="Swagger" width="40" height="15"/>&nbsp;
- <img src="https://img.shields.io/badge/SoapUI-yellow" title="SoapUI" alt="SoapUI" width="40" height="15"/>&nbsp;
-   <img src="https://img.shields.io/badge/Charles-white" title="Charles" alt="Charles" width="40" height="15"/>&nbsp;
- <img src="https://img.shields.io/badge/Git-black" title="Git" alt="Git" width="20" height="15"/>&nbsp;
-  <img src="https://img.shields.io/badge/Miro-yellow" title="Miro" alt="Miro" width="40" height="15"/>&nbsp;
- <img src="https://img.shields.io/badge/Trello-blue" title="Trello" alt="Trello" width="40" height="15"/>&nbsp;
- <img src="https://img.shields.io/badge/ClickUp-pink" title="ClickUp" alt="ClickUp" width="40" height="15"/>&nbsp;
+ <img src="https://img.shields.io/badge/Jira-blue" title="Jira" alt="Jira" width="44" height="30"/>&nbsp;
+  <img src="https://img.shields.io/badge/qase.io-purple" title="qase.io" alt="qase.io" width="80" height="30"/>&nbsp;
+  <img src="https://img.shields.io/badge/DevTools-grey" title="DevTools" alt="DevTools" width="80" height="30"/>&nbsp;
+  <img src="https://img.shields.io/badge/Postman-orange" title="Postman" alt="Postman" width="80" height="30"/>&nbsp;
+ <img src="https://img.shields.io/badge/Swagger-green" title="Swagger" alt="Swagger" width="80" height="30"/>&nbsp;
+ <img src="https://img.shields.io/badge/SoapUI-yellow" title="SoapUI" alt="SoapUI" width="80" height="30"/>&nbsp;
+   <img src="https://img.shields.io/badge/Charles-white" title="Charles" alt="Charles" width="80" height="30"/>&nbsp;
+ <img src="https://img.shields.io/badge/Git-black" title="Git" alt="Git" width="40" height="30"/>&nbsp;
+  <img src="https://img.shields.io/badge/Miro-yellow" title="Miro" alt="Miro" width="80" height="30"/>&nbsp;
+ <img src="https://img.shields.io/badge/Trello-blue" title="Trello" alt="Trello" width="80" height="30"/>&nbsp;
+ <img src="https://img.shields.io/badge/ClickUp-pink" title="ClickUp" alt="ClickUp" width="80" height="30"/>&nbsp;
 </div> 
-  
-``Jira``,``qase.io``,``SQL``,``DevTools``,``Postman``, ``Swagger``, ``SoapUI``, ``Charles``, ``Git``, ``Miro``, ``Trello``, ``ClickUp``
 
 ## Сертификаты
 <p>Пока один, но какой - я познал всю прелесть SQL, так что теперь он мне снится</p>
