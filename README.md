@@ -43,7 +43,7 @@
    <img src="https://img.shields.io/badge/Charles-white" title="Charles" alt="Charles" width="80" height="30"/>&nbsp;
  <img src="https://img.shields.io/badge/Git-black" title="Git" alt="Git" width="40" height="30"/>&nbsp;
   <img src="https://img.shields.io/badge/Miro-yellow" title="Miro" alt="Miro" width="44" height="30"/>&nbsp;
- <img src="https://img.shields.io/badge/Trello-blue" title="Trello" alt="Trello" width="80" height="30"/>&nbsp;
+ <img src="https://img.shields.io/badge/Trello-blue" title="Trello" alt="Trello" width="60" height="30"/>&nbsp;
  <img src="https://img.shields.io/badge/ClickUp-pink" title="ClickUp" alt="ClickUp" width="80" height="30"/>&nbsp;
 </div> 
 
