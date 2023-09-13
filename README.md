@@ -4,7 +4,7 @@
 Добрый день! Меня зовут Александр, я Junior Manual QA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32">
 
 <ol><div id="badges">
-  <a href="https://drive.google.com/file/d/1WGEX2FkXVxr01m1WLmulVa10T6V7ZE65/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1eID3CgU4IpMJuq3GevYzx8tGa7z-CMxO/view?usp=sharing">
     <img src="https://img.shields.io/badge/Моё резюме-blue?style=for-the-badge&logo=Моё резюме&logoColor=white" alt="Моё резюме Badge"/>
   </a>
   <a href="https://tbilisi.headhunter.ge/resume/9d24f520ff0be280fb0039ed1f595a31337a51">
