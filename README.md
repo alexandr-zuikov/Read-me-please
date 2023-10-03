@@ -18,7 +18,7 @@
 - :zap: Уверен, что могу быть вам полезен, так как имею:
  <ol>- Знание методологий тестирования, владение техникой тест-дизайна;</ol>
  <ol>- Понимание основных процессов тестирования;</ol>
- <ol>- Опыт работы с инструментами: DevTools, Jira, Qase.io, Postman, SOAP UI, Charles;</ol>
+ <ol>- Опыт работы с инструментами: Terminal, DevTools, Jira, Qase.io, Postman, SOAP UI, Charles;</ol>
  <ol>- Опыт в тестировании API;</ol>
  <ol>- Опыт работы с SQL:</ol>
   
@@ -67,7 +67,8 @@
 </div> 
 
 ## Сертификаты
-<img src="https://github.com/alexandr-zuikov/certificates/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20%22Stepik.%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B8%CC%86%20%D1%82%D1%80%D0%B5%D0%BD%D0%B0%D0%B6%D0%B5%D1%80%20%D0%BF%D0%BE%20SQL%22.png" alt="StepikSQL" width="322" height="222"/>&nbsp;<img src="https://github.com/alexandr-zuikov/certificates/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20Postman.png?raw=true" alt="StepikPostman" width="322" height="222"/>&nbsp; <img src="https://github.com/alexandr-zuikov/certificates/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20%D0%BE%20%D0%BF%D1%80%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8%20%D1%81%D1%82%D0%B0%D0%B6%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%B2%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B5%20%D0%94%D0%B6%D1%83%D0%BD%D1%8B.png" alt="Juniors" width="322" height="222"/>&nbsp;
+<img src="https://github.com/alexandr-zuikov/certificates/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20%22Stepik.%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B8%CC%86%20%D1%82%D1%80%D0%B5%D0%BD%D0%B0%D0%B6%D0%B5%D1%80%20%D0%BF%D0%BE%20SQL%22.png" alt="StepikSQL" width="322" height="222"/>&nbsp;<img src="https://github.com/alexandr-zuikov/certificates/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20Postman.png?raw=true" alt="StepikPostman" width="322" height="222"/>&nbsp; <img src="https://github.com/alexandr-zuikov/certificates/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20%D0%BE%20%D0%BF%D1%80%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8%20%D1%81%D1%82%D0%B0%D0%B6%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%B2%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B5%20%D0%94%D0%B6%D1%83%D0%BD%D1%8B.png" alt="Juniors" width="322" height="222"/>&nbsp; <img src="https://github.com/alexandr-zuikov/certificates/blob/main/Certificate%20%D0%9D%D0%B5%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0.png" alt="Juniors" width="322" height="500"/>&nbsp;
+
 
 ## Проекты:
 ## Тест web-приложения Aigital 
@@ -86,11 +87,11 @@
 <p>front: TypeScript, Vue.js</p>
 <p>back: NestJS</p>
 <p>база данных: MySQL</p>
-Состав команды: Team Lead QA + 8 Junior QA + Test Manager;
-В приоритете были реальные устройства, а так же эмулятор BrowserStack;
-Отвечал за десктопную и мобильную версию сайта в самых популярных браузерах: Google Chrome, Safari, Opera и Firefox;
-Чек-листы проверок составлял в Miro;
-Проводил функциональное тестирование методом Black Box по чек-листу, а именно:
+<p>Состав команды: Team Lead QA + 8 Junior QA + Test Manager;</p>
+<p>В приоритете были реальные устройства, а так же эмулятор BrowserStack;</p>
+<p>Отвечал за десктопную и мобильную версию сайта в самых популярных браузерах: Google Chrome, Safari, Opera и Firefox;</p>
+<p>Чек-листы проверок составлял в Miro;</p>
+<p>Проводил функциональное тестирование методом Black Box по чек-листу, а именно:</p>
 <p>- регистрация</p>
 <p>- авторизация</p>
 <p>- профиль</p>
