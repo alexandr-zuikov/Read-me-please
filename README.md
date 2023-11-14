@@ -7,7 +7,7 @@
   <a href="https://drive.google.com/file/d/1eID3CgU4IpMJuq3GevYzx8tGa7z-CMxO/view?usp=sharing">
     <img src="https://img.shields.io/badge/Моё резюме-blue?style=for-the-badge&logo=Моё резюме&logoColor=white" alt="Моё резюме Badge"/>
   </a>
-  <a href="https://tbilisi.headhunter.ge/resume/9d24f520ff0be280fb0039ed1f595a31337a51">
+  <a href="https://spb.hh.ru/resume/9d24f520ff0be280fb0039ed1f595a31337a51">
     <img src="https://img.shields.io/badge/headhunter-red?style=for-the-badge&logo=headhunter&logoColor=white" alt="Headhunter Badge](https://github.com/hhru/api/blob/master/logos/min-hh-red.png"/>
   </a>
 </div> </ol>
