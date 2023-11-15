@@ -1,4 +1,4 @@
-# Портфолио: Инженер по тестированию / QA Engeenier
+# Портфолио: Инженер по тестированию / QA Engineer
 ### :man_technologist: Обо мне:
 
 Добрый день! Меня зовут Александр, я Junior Manual QA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32">
